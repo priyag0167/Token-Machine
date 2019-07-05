@@ -7,5 +7,4 @@ public class TokenMachineMain {
 		//method to get token details from bank
 		token.getToken();
 	}
-
 }

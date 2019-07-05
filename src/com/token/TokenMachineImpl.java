@@ -9,7 +9,6 @@ public class TokenMachineImpl implements TokenImplInterface {
 	private static int ACCOUNTSIZE = 10;
 
 	private TokenMachine token;
-
 	
 	@Override
 	public void getToken() {	

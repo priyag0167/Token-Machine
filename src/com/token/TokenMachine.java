@@ -2,7 +2,7 @@ package com.token;
 
 import java.util.ArrayList;
 
-public class TokenMachine { 
+public class TokenMachine{ 
 	
 	private volatile static int tokenId=1;
 	
